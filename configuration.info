@@ -1,0 +1,10 @@
+#Game Configurations
+
+#Frame rate. Use 24 to 60
+fps = 60
+#Debug. Set to 1 for True, 0 for false
+debug = 0
+#Window Width, default at 800
+width = 800
+#Window Height, default at 600
+height = 600
