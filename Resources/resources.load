@@ -1,0 +1,9 @@
+#This file should contain all your files with their full paths relative to the main branch
+#Format: Type<space>Name<space>Path
+#Warning! Spaces in names should be avoided. Replace it with "_" for clarity
+
+image icon Resources/Images/icon.ico
+image banner Resources/Images/banner.png
+image mouse_active Resources/Images/mouse_active.png
+image mouse_inactive Resources/Images/mouse_inactive.png
+image loading Resources/Images/loading.png
